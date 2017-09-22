@@ -19,3 +19,6 @@ OpenJDK-wikiにある互換性の種類のページはこれらの説明の中�
 jdk9の動きの互換性は実行時に実行されるコードの意味論が含まれます。
 
 jdk9のリリースにおける互換性についてのより多くの情報はOpen JDK wikiにある　![Compatibility & Specification Review (CSR)](https://wiki.openjdk.java.net/display/csr/Main) を見てください
+
+# モジュールシステム(箇条書き項目は省略)
+JavaSEとJDKは大幅なアップデートがJava platformのモジュールシステム（JSR 376）を使用し、モジュールシステムを使用してJava SEプラットフォームとJDKをモジュール化します。変更による互換性の問題は、JEP 261の「リスクと前提条件」のセクションに記載されており、ここで要約されている紹介によってされています。
