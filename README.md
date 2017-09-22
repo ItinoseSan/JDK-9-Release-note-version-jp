@@ -5,10 +5,8 @@
 
 # 概要
 この項目は今回のリリースについて重要な変更と情報についての説明です。場合によっては説明の中で問題か変更についての追加された詳細がリンクで提供されています。このページは他で提供されているJDK9のリリースノートの内容と重複していません。
-## Whats New in JDK 9
-http://docs.oracle.com/javase/9/whatsnew/toc.htm#JSNEW-GUID-C23AFD78-C777-460B-8ACE-58BE5EA681F6
-## JSR 379: Java SE 9: Annex1
-http://cr.openjdk.java.net/~iris/se/9/java-se-9-pr-spec-01/java-se-9-annex-1.html
+## ![Whats New in JDK 9](http://docs.oracle.com/javase/9/whatsnew/toc.htm#JSNEW-GUID-C23AFD78-C777-460B-8ACE-58BE5EA681F6)
+## ![JSR 379: Java SE 9: Annex1](http://cr.openjdk.java.net/~iris/se/9/java-se-9-pr-spec-01/java-se-9-annex-1.html)
 あなたはこの２つのドキュメントの中で説明された項目の内容を同じくらいよく知っている必要があるでしょう。
 この説明はまたJDK 9への移行時に発生する可能性のある互換性の問題を特定します。特定の互換性の問題については、「JDK 9移行ガイド」を参照してください。
 
